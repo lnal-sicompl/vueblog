@@ -1,0 +1,22 @@
+{
+    "config": {
+        "username": "Laurent Nal",
+        "avatarPath": "https://api.dicebear.com/7.x/open-peeps/svg?seed=Sam&scale=130&radius=30&translateX=-10&accessories=glasses3&accessoriesProbability=100&face=calm,explaining,old,smile&facialHairProbability=0&head=grayShort&mask[]&skinColor=edb98a,ffdbb4",
+        "description": "Web application development made easier",
+        "name": "SICOM.PL",
+        "blogTitle": "Discovering discoverable",
+        "blogStartYear": 2023
+    },
+    "contacts": [
+        {
+            "name": "Email",
+            "value": "lnal@sicom.pl",
+            "link": "mailto:lnal@sicom.pl"
+        },
+        {
+            "name": "linkedIn",
+            "value": "lnal@sicom.pl",
+            "link": "mailto:lnal@sicom.pl"
+        }
+    ]
+}
