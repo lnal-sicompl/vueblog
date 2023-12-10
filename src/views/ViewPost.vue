@@ -99,6 +99,7 @@ export default {
 <style>
 .cover {
   width: 100vw;
+  height: 128px;
 }
 
 .margin {

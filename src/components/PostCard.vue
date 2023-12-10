@@ -58,6 +58,13 @@ export default {
 .post-card .vs-card {
   height: 380px !important;
 }
+.vs-card__img img {
+  height: 142px !important;
+  object-fit:cover;
+}
+.vs-card__img .vs-avatar img {
+  object-fit:inherit;
+}
 
 .post-card-tag {
   position: absolute;

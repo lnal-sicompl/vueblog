@@ -1,10 +1,11 @@
+
 {
     "config": {
         "username": "A Programmer in the Wild",
-        "avatarPath": "https://avatars.dicebear.com/api/miniavs/Johndoe.svg",
+        "avatarPath": "https://api.dicebear.com/7.x/open-peeps/svg?seed=Sam&flip=true&scale=150&radius=30&accessories=glasses3&accessoriesProbability=100&face=calm,explaining,old,smile&facialHairProbability=0&head=grayShort&mask[]&skinColor=edb98a,ffdbb4",        
         "description": "Labore voluptate ea elit nisi minim quis laborum.",
-        "name": "John Doe",
-        "blogTitle": "My Blog",
+        "name": "Switnerval",
+        "blogTitle": "Discovering discovery",
         "blogStartYear": 2022,
         "theme": "default",
         "nothing": "There's nothing here, yet."
